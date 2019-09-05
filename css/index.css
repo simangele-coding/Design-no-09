@@ -98,7 +98,7 @@ nav {
 }
 
 .header-content {
-  background-image:url(pic.jpeg);
+  background-image:url(../img/pic.jpeg);
   height:100vh;
   background-size: cover;
   background-position: center;
@@ -562,7 +562,7 @@ nav {
 
 
 #section-four {
-  background-image: linear-gradient(to bottom, rgba(0,0,0,.6), rgba(0,0,0,.6)), url(site.webp);
+  background-image: linear-gradient(to bottom, rgba(0,0,0,.6), rgba(0,0,0,.6)), url(../img/site.webp);
   height:600px;
   background-size: cover;
   background-position: center;
