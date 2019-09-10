@@ -477,7 +477,11 @@ nav {
 
 
 #section-four {
+<<<<<<< HEAD
   background-image: linear-gradient(to bottom, rgba(0,0,0,.7), rgba(0,0,0,.7)), url(../img/site.jpg);
+=======
+  background-image: linear-gradient(to bottom, rgba(0,0,0,.6), rgba(0,0,0,.6)), url(../img/site.jpg);
+>>>>>>> b474e76cb034c01fc7991b218bb0fccd037ebba0
   height:600px;
   background-size: cover;
   background-position: center;
